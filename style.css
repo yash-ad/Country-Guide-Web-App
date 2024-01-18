@@ -65,10 +65,10 @@
     letter-spacing: 2px;
     margin-bottom: 1.8em;
   }
-  /* .wrapper{
+  .wrapper{
     display: flex;
     justify-content: center;
-  } */
+  }
   .data-wrapper {
     margin-bottom: 1em;
     letter-spacing: 0.3px;
