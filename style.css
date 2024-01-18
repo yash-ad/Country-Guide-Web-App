@@ -25,14 +25,6 @@
     box-shadow: 0 0.75rem 0.75rem 0.75rem rgba(247, 246, 246, 0.25);
     /* border: #e5e5e7; */
   }
-  .title{
-text-align: center;
-color: #ffffff;
-font-size: 40px;
-font-weight: 400;
-font-family:Arial, Helvetica, sans-serif;
-margin-bottom: 5px;
-  }
 
   .search-bar {
     display: grid;
