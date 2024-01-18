@@ -1,10 +1,10 @@
+//HTML Elements.
 let searchBtn = document.getElementById('search-btn');
 let countryInp = document.getElementById('country-input');
 let resetBtn = document.getElementById('reset-btn');
 let result = document.getElementById('result');
 
-// Click event
-
+//This event listener is triggered when the search button (searchBtn) is clicked.
 searchBtn.addEventListener('click',()=>{
 
     let countryName = countryInp.value;
@@ -66,6 +66,7 @@ searchBtn.addEventListener('click',()=>{
   
 })
 
+<!-- //This event listener is triggered when the reset button (resetBtn) is clicked -->
 resetBtn.addEventListener('click', () => {
     location.reload();
 });
