@@ -55,7 +55,7 @@ searchBtn.addEventListener('click',()=>{
     if (countryName.length == "") {
         result.innerHTML = `<h3>The input field cannot be empty</h3>`;
     } else {
-        result.innerHTML = `<h3>Please enter a valid country name.</h3>`;
+        result.innerHTML = `<h3>Please enter a valid country name</h3>`;
     }
 
     // Clear the error message after 2-3 seconds
