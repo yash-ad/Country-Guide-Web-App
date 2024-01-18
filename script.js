@@ -61,7 +61,7 @@ searchBtn.addEventListener('click',()=>{
     // Clear the error message after 2-3 seconds
     setTimeout(() => {
         result.innerHTML = '';
-    }, 2000); // Adjust the timeout duration based on your preference
+    }, 3000); // Adjust the timeout duration based on your preference
 });
   
 })
